@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:035305_0000_10021AE05690EE88"/>
-            <pb facs="tcp:035305_0001_10021AE1EAAB1498" rendition="simple:additions"/>
+            <pb facs="unknown:035305_0000_10021AE05690EE88"/>
+            <pb facs="unknown:035305_0001_10021AE1EAAB1498"
+                rendition="simple:additions"/>
             <p>THE <hi>Efficacy</hi> OF DR. CHURCH's COUGH DROPS, DEMONSTRATED IN THE CURE OF Coughs, Colds, Asthmas &amp; Consumptions, INVENTED AND PREPARED BY JAMES CHURCH, M. D.</p>
             <q>"If the public Approbation of THOUSANDS,—nay, TENS of THOUSANDS, who were cured by this Medicine, during the last <hi>severe</hi> Winter, is a Criterion by which <hi>we</hi> may judge of its Value; doubtless no Medicine has hitherto been disco<g ref="char:EOLhyphen"/>vered, by which the Public has been so particularly benefited."
 <bibl>I. PIDDING, M.D.</bibl>
@@ -147,27 +148,28 @@
             <p>NEW-YORK: PRINTED FOR THE PROPRIETOR, BY G. AND R. WAITE, 1799.</p>
          </div>
          <div type="note">
-            <pb facs="tcp:035305_0002_10021AE439DD5AC0" rendition="simple:additions"/>
+            <pb facs="unknown:035305_0002_10021AE439DD5AC0"
+                rendition="simple:additions"/>
             <head>Caution.—Impostors. VERITAS VINCIT OMNES.</head>
             <p>IN the present age when imposture stalks so openly and shame<g ref="char:EOLhyphen"/>fully abroad, no man, who has labored for the service of the com<g ref="char:EOLhyphen"/>munity and who has had the satisfaction of seeing his labors crowned with some degree of success, is free from the direct or indirect attacks of persons whose business it is to deceive. And medicine particularly affords a very extensive, though a very dangerous, field for imposition, which is generally practised in proportion to the celebrity the medicine has acquired.</p>
             <p>It cannot fail to attract the notice of the public, that CHURCH's COUGH DROPS, unparalleled for their efficacy in the cure of <hi>COUGHS, ASTHMAS</hi> and <hi>CONSUMPTIONS,</hi> and established solely by their merits, has opened a door for imposition. A base and notorious imitation of the genuine medicine, has been vended in almost every city of the United States, as of Dr. Church's pre<g ref="char:EOLhyphen"/>paring, <hi>with his forged Signature,</hi> but which, from their ineffi<g ref="char:EOLhyphen"/>cacy, have been detected. They would be too contemptible to be noticed, were it not by way of caution, as it is too probable dan<g ref="char:EOLhyphen"/>ger of the most serious nature may arise from the application of such gross and scandalous deceptions.</p>
             <p>Dr. Church therefore thinks it his indispensable duty to lay be<g ref="char:EOLhyphen"/>fore the public the above facts, requesting them, as they value their money, their health or their lives, to be particularly cau<g ref="char:EOLhyphen"/>tious how they purchase or take any of those despicable and dangerous impositions which are absolutely intruded upon them under the unwarrantable name of Church's Cough Drops, such compositions bearing no analogy to his. As a certain mark of authenticity, each bottle has a blue certificate, signed <hi>James Church,</hi> pasted on the outside wrapper, without which blue label, it cannot be genuine or of Dr. Church's preparing.</p>
          </div>
          <div type="apology">
-            <pb facs="tcp:035305_0003_10021AE5D204A7D8"/>
+            <pb facs="unknown:035305_0003_10021AE5D204A7D8"/>
             <head>APOLOGY.</head>
             <p>FOR many years past, I have applied myself particularly to the study of the cure of Diseases of the Lungs, and the asto<g ref="char:EOLhyphen"/>nishing success I have had since my commencement into prac<g ref="char:EOLhyphen"/>tice, is such as I flatter myself, few in the medical line can boast. In the years 1792 and 1793, by means of public advertisements, I made known a cure for COUGHS, ASTHMAS and CONSUMP<g ref="char:EOLhyphen"/>TIONS, through the efficacy of a Medicine of my own invention: this drew a very considerable number of patients to me, many of whom I had the happiness to cure of the most afflicting maladies incident to human nature, (as will appear by the pamphlets pub<g ref="char:EOLhyphen"/>lished by me) wherein is exhibited such astonishing proofs of its incomparable virtues, as are totally unexampled, and occasion<g ref="char:EOLhyphen"/>ing a demand of the Medicines hitherto uparalleled.</p>
             <p>The propagation of these important truths, led me into a vast field for practice, particularly during the uncommonly severe winter of 1794—it was no unusual thing for me to see from 70 to 80 patients a day, nor were my labors crowned with a small degree of success; those who have been my patients and have been restored to health from lingering diseases, need not be in<g ref="char:EOLhyphen"/>formed this; but for the information and satisfaction of those who have not had the opportunity of witnessing the success I have had, I refer to the pamphlet above alluded to. It has been said, if I REALLY had the public good at heart, as I have profess<g ref="char:EOLhyphen"/>ed to have, I should make known the secret by publishing it for the general good; but here I will give some of my objections: was I to do that, they would be prepared by every apothecary and chemist, their virtues would gradually degenerate, and con<g ref="char:EOLhyphen"/>sequently many would be deprived of their efficacy; which as long as they are kept a secret they may expect—experience dai<g ref="char:EOLhyphen"/>ly convinces us that mankind in general despise those things which are commonly known, and two easily obtained.</p>
             <p>Many of the most excellent medicines that have been disco<g ref="char:EOLhyphen"/>vered by men eminent in the practice of physic, have performed very astonishing cures during the lives of the inventors, yet af<g ref="char:EOLhyphen"/>ter their decease, when they have no longer remained secrets, but have been published (from motives of philanthropy) for the be<g ref="char:EOLhyphen"/>nefit of mankind in general, have gradually sunk into disrepute and ultimately into oblivion, and for no other reason, but because their preparation was generally known—of these truths I could produce a number of instances.</p>
             <p>A professed Medical author<note n="*" place="bottom">T. Champney.</note> who has vainly attempted to ef<g ref="char:EOLhyphen"/>fect what he calls a "reform in the healing art," in a late publica<g ref="char:EOLhyphen"/>tion says, "if a man ſhould make any discovery in medicine,
-<pb n="4" facs="tcp:035305_0004_10021AE89FE29900"/>
+<pb n="4" facs="unknown:035305_0004_10021AE89FE29900"/>
 likely to be useful to his country, let him make it known to the College of Physicians, or Corporation of Surgeons, and on their deliberate trial and report in its favor, let him be rewarded by the Legislature." It is very probable they would make a <hi>"deliberate trial"</hi> of its efficacy to their own profit and emolument; but he must not expect a <hi>"report in its favor,"</hi> although adopted into general use by many of those gentlemen who constitute the <hi>"Col<g ref="char:EOLhyphen"/>lege of Physicians"</hi> and <hi>"Corporation of Surgeons."</hi> Who then is to indemnify me for having given away, what would at least have procured me a comfortable competency? I doubt if this gentleman, or any other person, can produce a single instance, where any professional man was ever rewarded by the Legislature, for any discovery made in medicines however important.</p>
             <p>For while every other science is rising hastily towards the sum<g ref="char:EOLhyphen"/>mit of perfection, while monarchs deign to patronize its improv<g ref="char:EOLhyphen"/>ers, and the whole nation derives fresh dignity and importance from the discoveries of individuals, the science of physic <hi>alone</hi> is neglected. Is the cultivation of our lands, the extent of our na<g ref="char:EOLhyphen"/>vigation, or the momentary entertainment of our eye or ear, of more consequence than the enjoyment of our health, or the pre<g ref="char:EOLhyphen"/>servation of our constitutions from sickness or disease? in vain do we attempt to render the earth more fertile, in vain do we la<g ref="char:EOLhyphen"/>bor to extend our commerce, the charms of poetry are wholly useless, and even music's self has little power to please, even with all these blessings, we still are languishing upon a bed of sickness; even all that gold can put us in possession of, would be tasteless and insipid, had we not health to enjoy what we pos<g ref="char:EOLhyphen"/>sess. Yet we cannot in all of our searches, find a single patron for the encouragement of this sublime study.</p>
             <p>Our seminaries of learning, appropriate honorable rewards for literary exhibitions; societies instituted for the promotion of the useful arts, have rewarded men for producing a quantity of grass or vegetables: but to whom shall <hi>he</hi> apply, who has found out a dangerous and torturing disease; there is no society to reward <hi>him,</hi> or recompence <hi>him</hi> for his labors; no man of eminence to grant <hi>him</hi> his protection; but on the contrary he is <hi>opposed</hi> by the whole fraternity of physicians and surgeons; and every avenue to fame and honor, through <hi>their</hi> means, is effectually stopped up.</p>
             <p>In the present case there are few exceptions, some few medi<g ref="char:EOLhyphen"/>cal gentlemen have been candid enough to make a <hi>deliberate tri<g ref="char:EOLhyphen"/>al</hi> of my medicines, and have made a <hi>report in its favor,</hi> as may be seen by their public testimonies in this pamphlet. I am there<g ref="char:EOLhyphen"/>fore under the necessity, whether pleasant to me or not, of adopt<g ref="char:EOLhyphen"/>ing this as the only method to propagate, and render universally known, the result of long and indefatigable study and practice.</p>
             <p>Surely then as the Proprietor, I may without ostentation, con<g ref="char:EOLhyphen"/>gratulate myself and the public, on account of it, and rejoice with the numerous families and individuals, who have thereby been made happy in the unexpected, and frequently unhoped for recovery of themselves, their relatives and friends.</p>
             <p>
-               <pb n="5" facs="tcp:035305_0005_10021AEA347FFCB8"/>The reader must not expect (from what I have said) that the Medicine will work miracles, or that they are infallible, for to assert either, would be a gross violation of truth, as no such Medicines ever were discovered.</p>
+               <pb n="5" facs="unknown:035305_0005_10021AEA347FFCB8"/>The reader must not expect (from what I have said) that the Medicine will work miracles, or that they are infallible, for to assert either, would be a gross violation of truth, as no such Medicines ever were discovered.</p>
             <p>My fervent desire is, that all who labour under the several Disorders herein mentioned, may be led to adopt the method laid down in the several directions, and experience the good effects of the Medicine, in a speedy return of health.</p>
             <closer>
                <signed>JAMES CHURCH.</signed>
@@ -188,7 +190,7 @@ likely to be useful to his country, let him make it known to the College of Phys
                <p>Very many of the patients who have been restored to health by these drops had been reduced by long standing and increasing Con<g ref="char:EOLhyphen"/>sumptive and Asthmatic complaints to the brink of the grave, after having used every remedy recommended as specific for those com<g ref="char:EOLhyphen"/>plaints, and receiving every advice and assistance from the Faculty they could obtain.</p>
                <p>The principal qualities of this medicine are an <hi>Expectorant,</hi> a <hi>de<g ref="char:EOLhyphen"/>mulient,</hi> an <hi>Antispasmodic,</hi> a <hi>Corroborant,</hi> an <hi>Anodyne</hi> and a <hi>Tonic</hi>: also an enlivener of the spirits, and a restorer of the appetite, by a removal of the affection which suspends it. It gives almost imme<g ref="char:EOLhyphen"/>diate liberty of respiration in the highest paroxism of the asthma, without a danger of subjecting the patient to take cold; it directly eases the lacerating soreness of the breast occasioned by coughing: in obſtructions of the glands, and in removing that acrimony of the fluids, (particularly in that species of cold termed a <hi>Catarrh</hi>) which corrodes the lungs, and if not timely prevented, is productive of the most fatal consequences.</p>
                <p>Even in the most desperate cases, which experience has proved a cure to be impracticable, and where the whole internal system has been actually decayed, these drops surprisingly comfort and relieve the patient, not only by giving ease to the cough and breath, but by
-<pb n="6" facs="tcp:035305_0006_10021AEC16B5DBA8"/>
+<pb n="6" facs="unknown:035305_0006_10021AEC16B5DBA8"/>
 promoting sleep, stimulating the appetite, enlivening the spirits and consequently prolonging life, of which all men are so naturally desirous.</p>
                <p>COMMON COLDS, which are generally occasioned by an obstructed perspiration, will be found to yield to its benign influence in a few hours. In common Coughs, which are in general the effect of COLD, it gives immediate relief, removing those troublesome irritations, or, as they are called, ticklings in the throat, so tormenting in this com<g ref="char:EOLhyphen"/>plaint, and which acts as a constant stimulus to coughing; it quiets those convulsive excitements, and causing the afflicted to breathe and speak freely; it procures rest and sleep in an eminent degree, and strengthens the constitution, which enables it to repel an enemy, whose attacks are frequently followed by the most fatal consequences.</p>
                <p>Persons afflicted with PULMONARY COMPLAINTS, or disorders of the BREAST and LUNGS, (even in the most advanced state, and the most advanced period of life) will find instant relief.</p>
@@ -222,7 +224,7 @@ promoting sleep, stimulating the appetite, enlivening the spirits and consequent
                   </q>
                   <floatingText type="letter">
                      <body>
-                        <pb n="7" facs="tcp:035305_0007_10021AEF05D90A30"/>
+                        <pb n="7" facs="unknown:035305_0007_10021AEF05D90A30"/>
                         <head>Copy of a letter from Captain Henry, to Dr. Church.</head>
                         <opener>
                            <salute>Dear Sir,</salute>
@@ -266,7 +268,7 @@ To Dr. Church.</closer>
                   </floatingText>
                   <floatingText type="letter">
                      <body>
-                        <pb n="8" facs="tcp:035305_0008_10021AF12E8B34F8"/>
+                        <pb n="8" facs="unknown:035305_0008_10021AF12E8B34F8"/>
                         <head>Copy of a letter from an eminent Surgeon. <hi>To Mr. CHURCH.</hi>
                         </head>
                         <opener>
@@ -319,7 +321,7 @@ To Dr. Church.</closer>
                            <div type="affidavit">
                               <head>Copy of an affidavit taken before the Right Hon. Paul Le Mesurier, Lord Mayor of London, at the Mansion-House, and Alderman Skinner, at Guildhall, London.</head>
                               <p>Philip Williams, of No. 4, Tabernacle-row, Moorfields, in the parish of St. Luke, Middlelesex, voluntarily maketh oath and saith, that he was grieviously af<g ref="char:EOLhyphen"/>flicted with a most violent cough for upwards of thirty years, which used to prevent him laying down in his bed for whole nights together; and in the day time, owing
-<pb n="9" facs="tcp:035305_0009_10021AF2EB301760"/>
+<pb n="9" facs="unknown:035305_0009_10021AF2EB301760"/>
 to the violence of the cough, he was very often unable to attend his business for half a day together.—This deponent further saith, he has applied to many emi<g ref="char:EOLhyphen"/>nent gentlemen of the faculty, and has taken a great deal of medicine which never did him any good, but found notwithstanding all the medicine and other things that he took, he grew worse. This deponent further maketh oath and saith, that seeing many remarkable cures, similar to his published by Dr. James Church, of the Ci<g ref="char:EOLhyphen"/>ty Road, said to be effected by his Cough Drops, was induced to investigate into the truth of the same, which he did to his satisfaction: which induced him to make trial of them, which he did; from the first dose he found present relief, and by the said Church's Cough Drops he is now perfectly cured, to the great astonishment of all his friends and neighbours, and is better in health than ever he was in his life.</p>
                               <closer>
                                  <signed>(Signed) PHILIP WILLIAMS.</signed>
@@ -386,7 +388,7 @@ to the violence of the cough, he was very often unable to attend his business fo
                            </gap>e last few years it was a trouble to <gap reason="illegible" resp="#PDCC" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap> both
-<pb n="10" facs="tcp:035305_0010_10021AF48D361480"/>
+<pb n="10" facs="unknown:035305_0010_10021AF48D361480"/>
 summer and winter, day and night, insomuch that I was scarce able to do any thing, or even to walk about. I applied to many eminent in the practice of physic, whose prescriptions I took with patience, but nothing that I ever took relieved my breath: I despaired of ever being in any degree relieved. My cough in spite of all the medicines and other things that I took, still continued to torment me exceedingly, till by chance happening to hear of your celebrated Cough Drops, I took a dose of it and found instantaneous relief, and by continuing it for about ten days, I was happily rid both of cough and shortness of breath, and am as well as ever I was in my life.</p>
                         <closer>
                            <signed>MARY SMITH.</signed>
@@ -441,7 +443,7 @@ summer and winter, day and night, insomuch that I was scarce able to do any thin
                            <div type="affidavit">
                               <head>Copy of an affidavit taken before Alderman Skinner, at Guildhall.</head>
                               <p>MARY EDMUNDS, of No. 9, North-place, Banner-street, St. Luke's, Middlesex, voluntarily maketh oath and saith, that she was afflicted with a most violent cough, shortness of breath, and tightness at her chest, for a long time, for which she had taken a multiplicity of medicines, without finding any relief; in this situation, unable to attend her business, she continued with very little hopes of relief from
-<pb n="11" facs="tcp:035305_0011_10021AF7A7E31AF8"/>
+<pb n="11" facs="unknown:035305_0011_10021AF7A7E31AF8"/>
 the faculty, her cough tormenting her day and night, and her breath so bad that she was scarce able to speak. This deponent further mak<g ref="char:EOLhyphen"/>eth oath and saith, that being advised to make trial of Church's Cough Drops, she purchased a bottle of them, and from the first dose found instantaneous relief; and was by one bottle perfectly cured, and is now as well as ever she was in her life.</p>
                               <closer>
                                  <signed>(Signed) MARY EDMUNDS.</signed>
@@ -506,7 +508,7 @@ the faculty, her cough tormenting her day and night, and her breath so bad that 
                </p>
                <p>Many of the most enlightened physicians assert, that <q>
                      <hi>Bal<g ref="char:EOLhyphen"/>samic Medicines</hi> are of extensive use in physic, and their vir<g ref="char:EOLhyphen"/>tues
-<pb n="12" facs="tcp:035305_0012_10021AF9DB767CB0"/>
+<pb n="12" facs="unknown:035305_0012_10021AF9DB767CB0"/>
 superior to those of any other class, being suited to all constitutions and calculated to remove many diseases.</q>
                </p>
                <p>This excellent <hi>Restorative</hi> is prepared at a considerable ex<g ref="char:EOLhyphen"/>pence, from the choicest, richest, and most valuable Balsams in the worid, joined with a collection of the most useful corrobo<g ref="char:EOLhyphen"/>rants, all happily suited for restoring the most emaciated and de<g ref="char:EOLhyphen"/>bilitated constitutions; its incomparable virtues have been ex<g ref="char:EOLhyphen"/>perienced by thousands in Europe, the West Indies and America, in the Cure of NERVOUS DISORDERS, LOSS OF APPETITE, FEMALE COMPLAINTS, INWARD WEAKNESSES, LOWNESS OF SPIRITS, SEMINAL WEAKNESSES, INDIGESTION, DE<g ref="char:EOLhyphen"/>CAYED, WEAK, RELAXED or DEBILITATED CONSTITU<g ref="char:EOLhyphen"/>TIONS, PAINS IN THE LIMBS, POVERTY OF BLOOD, SINKINGS, ANXIETIES and TREMORS, which so dreadfully affect the weak, the sedentary, and the delicate, BILIOUS DIS<g ref="char:EOLhyphen"/>ORDERS, every symptom of extreme debility, attendant on the indiscretions of youth, the consequences of a dissipated life, ex<g ref="char:EOLhyphen"/>cess of pleasure or grief, change of climate, the immoderate use of tea, hard drinking, or any intemperance; diseases incident to young women, <hi>i.</hi>
@@ -520,7 +522,7 @@ Is recommended as a Medicine of specific and unparalleled virtues for the immedi
                <p>It is earnestly recommended to those ladies, who from repeated and difficult labours, are afflicted with weaknesses and infirmi<g ref="char:EOLhyphen"/>ties; in which cases it is highly useful, strengthening at the same time the stomach, the back, the weakened organs, and the <hi>whole constitution.</hi>
                </p>
                <p>
-                  <pb n="13" facs="tcp:035305_0013_10021AFCCF5D7CA8"/>Those, who in advanced life, feel the consequences of <hi>youthful excess,</hi> or unfortunate youth, who have brought on themselves a numerous train of evils, will by the use of this, <hi>find themselves restored to health and strength,</hi> and all the <hi>melancholy symptoms removed,</hi> which are the general effects of such causes.</p>
+                  <pb n="13" facs="unknown:035305_0013_10021AFCCF5D7CA8"/>Those, who in advanced life, feel the consequences of <hi>youthful excess,</hi> or unfortunate youth, who have brought on themselves a numerous train of evils, will by the use of this, <hi>find themselves restored to health and strength,</hi> and all the <hi>melancholy symptoms removed,</hi> which are the general effects of such causes.</p>
                <p>For whether the system has received a shock, and is <hi>debilitated</hi> from <hi>imprudencies</hi> or <hi>inattention in the earliest part of life,</hi> or is <hi>sinking under the advance of youth,</hi> a few doses of this <hi>Medicine</hi> will afford immediate assurance of <hi>returning health and strength,</hi> by giving tone to the muscular system, and organs or digestion, and by <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>enovating the <hi>whole constitution.</hi>
@@ -556,7 +558,7 @@ Is recommended as a Medicine of specific and unparalleled virtues for the immedi
                      </body>
                   </floatingText>
                   <p>
-                     <pb n="14" facs="tcp:035305_0014_10021AFE96487BA8"/>
+                     <pb n="14" facs="unknown:035305_0014_10021AFE96487BA8"/>
 Mrs. C—, aged 48 years, labored under the most severe affliction for seve<g ref="char:EOLhyphen"/>ral years, it being a very critical period with her. Her body at times was very much swelled, her head greatly disordered; confused thoughts, pains at the pit of the stomach, frequent vomiting of bile, nervous trembling, pain and weakness in her back and loins, very little desire to eat, but very thirsty, frequent lan<g ref="char:EOLhyphen"/>guor and faintings, great oppression at the stomach, severe cough and shortness of breath and wind. After taking a great deal of Medicines for many years, pre<g ref="char:EOLhyphen"/>scribed for her by Physicians of eminence to very little purpose, she made applica<g ref="char:EOLhyphen"/>tion to Dr. Church, City Road, who recommended his <hi>Cordial Restorative Bal<g ref="char:EOLhyphen"/>sam,</hi> &amp;c. to her, who, after taking it perseveringly for about two months, received a perfect cure, and now enjoys a good state of health.</p>
                   <p>Mrs. A—, owing to very severe treatment in her lying in, laboured under a very bad weakness for several years, and was from that period unable to hold her water, and was otherwise much afflicted: she took the <hi>Restorative Balsam</hi> and <hi>De<g ref="char:EOLhyphen"/>coction of Bark,</hi> by the recommendation of Dr. Church, and by which she was soon effectually cured and now enjoys a good state of health.</p>
                   <floatingText type="letter">
@@ -578,7 +580,7 @@ Mrs. C—, aged 48 years, labored under the most severe affliction for seve<g re
                   <p>Miss M. A—, aged 17 years, was committed to Dr. Church's care, after hav<g ref="char:EOLhyphen"/>ing laboured under the most severe afflictions, ever since she was 14 years old, and after taking an immense quantity of medicines from several gentlemen eminent in the practice of physic to no effect.</p>
                   <p>Her chief complaint were, nausea or sickness, no appetite, a very great weak<g ref="char:EOLhyphen"/>ness upon her, very irregular, frequent pains about the lower part of her body, head, loins, &amp;c. &amp;c. lowness of spirits, a dislike to any exercise, her legs used frequently to swell towards night, owing to the great debility which she suffered, her complexion was very yellow and sickly. In short, her constitution was so de<g ref="char:EOLhyphen"/>bilitated, that her life was despaired of.</p>
                   <p>
-                     <pb n="15" facs="tcp:035305_0015_10021B005385C5B0"/>By the advice of Dr. Church, she took the RESTORATIVE BALSAM, &amp;c. and found present and very singular relief, and by continuing to take it for a short time is effectually cured, and is now quite free from any of the above disorders, and i, in good health and spirits.</p>
+                     <pb n="15" facs="unknown:035305_0015_10021B005385C5B0"/>By the advice of Dr. Church, she took the RESTORATIVE BALSAM, &amp;c. and found present and very singular relief, and by continuing to take it for a short time is effectually cured, and is now quite free from any of the above disorders, and i, in good health and spirits.</p>
                </div>
             </div>
             <div type="part">
@@ -625,7 +627,7 @@ Mrs. C—, aged 48 years, labored under the most severe affliction for seve<g re
                            <salute>Dear Sir,</salute>
                         </opener>
                         <p>Agreeable to your request, I send you the Case of my Sister, who for a long time was dreadfully afflicted with the most severe Fits that could afflict human na<g ref="char:EOLhyphen"/>ture,
-<pb n="16" facs="tcp:035305_0016_10021B0280AADA48"/>
+<pb n="16" facs="unknown:035305_0016_10021B0280AADA48"/>
 which came at first through a fright: these Fits encreased upon her to a very great degree. She used often to have four, and sometimes eight or nine in a day, particularly at the change and full of the Moon, which at length rendered it im<g ref="char:EOLhyphen"/>proper for her to be left alone. As they grew more and more violent, she was un<g ref="char:EOLhyphen"/>der the care of Dr. S—, whose Medicines did not afford her the least relief whatever. She was also placed under the care of several other Professional Gen<g ref="char:EOLhyphen"/>tlemen, who could render her no <gap reason="illegible" resp="#PDCC" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap> aid whatever. Hearing of your great skill in curing all kinds of Fits, she made application to you for advice; and I am happy to testify thus publicly, that she was effectually cured by your <hi>Patent Antis<g ref="char:EOLhyphen"/>pasmodic Elixir,</hi> in two months; nor has she had any return of her <hi>Fits</hi> since, al<g ref="char:EOLhyphen"/>though now <hi>Two Years</hi> ago. Any further enquiries that may be made concerning this great cure, I shall be happy to answer at any time.</p>
@@ -666,7 +668,7 @@ which came at first through a fright: these Fits encreased upon her to a very gr
             <div type="part">
                <head>HEAD-ACHE.</head>
                <p>PERSONS afflicted with the Head-Ache, proceeding from whatever cause, will find instant relief in the application of Dr. Church's ANODYNE ES<g ref="char:EOLhyphen"/>SENCE;
-<pb n="17" facs="tcp:035305_0017_10021B04187F9370"/>
+<pb n="17" facs="unknown:035305_0017_10021B04187F9370"/>
 in Rheumatic, Nervous and Billious Head-Aches, it has not its equal. It not only alleviates that tormenting Pain, but removes it almost instantaneously. The Head-Ache occasioned by hard Drinking, and any local pain in any other part of the body or extremities, are by its application effectually removed.</p>
                <div type="cases">
                   <head>CASES OF CURE.</head>
@@ -699,7 +701,7 @@ in Rheumatic, Nervous and Billious Head-Aches, it has not its equal. It not only
                <head>WORMS. The Genuine Vermifuge Lozenges, FOR DESROYING WORMS IN CHILDREN AND GROWN PERSONS. Invented and prepared by Dr. James Church, New-York.</head>
                <p>The general symptoms of Worms, are a Nausea with Sickness at the Stomach, foetid Breath, itching of the Nose, starting and grinding their Teeth while a-sleep, paleness of the Countenance, the Appetite sometimes had, and at other times quite voracious, Looseness, a hard swelled Belly, intermitting Fevers, frequently very Thirsty, the Urine sometimes frothy and often of a whitish color, griping or cho<g ref="char:EOLhyphen"/>leric Pains, a dry Cough, unequal Pulse, Drowsiness, Fitts and Convulsions.</p>
                <p>The necessity of a remedy is obvious, as they are frequently productive of the most fatal consequences. These <hi>Vermifuge Lozenges</hi> are an excellent Alternative, contains nothing but what is perfectly innocent, may be administered to children of all ages, and to grown persons with the greatest safety, and, as a Worm Medi<g ref="char:EOLhyphen"/>cine,
-<pb n="18" facs="tcp:035305_0018_10021B070A219CD8"/>
+<pb n="18" facs="unknown:035305_0018_10021B070A219CD8"/>
 are an infallible and certain cure. They operate by stool and are singularly efficacious for gross humours and eruptions, sore heads, fever, billious complaints, &amp;c. an excellent physic after the small-pox, measles, fevers, &amp;c. and as gentle a purgative in the spring and fall of the year.</p>
             </div>
             <div type="part">
@@ -751,7 +753,7 @@ are an infallible and certain cure. They operate by stool and are singularly eff
                   </list>
 IS RECOMMENDED <hi>Dr. Church's</hi> Essence and Extract of Mustard, Prepared (only) by Dr. James Church at his Dispensary, New-York</head>
                <p>
-                  <pb n="19" facs="tcp:035305_0019_10021B08C786BA30"/>THERE is perhaps no malady to which the human frame is subject, that has had more applications of various kinds administered as remedies<g ref="char:punc">▪</g> than the Rheuma<g ref="char:EOLhyphen"/>tism, nor is there scarce a disorder that has resisted with like force the attempts made to remove it. The virtues of the Essence and Extract of Mustard, will be found to equal if not excell those of any other medicine whatever, in the cure of the above complaints. The following is quoted from the London Pharmacopiae, and is the opinion of the College of Physicians concerning this valuable drug.</p>
+                  <pb n="19" facs="unknown:035305_0019_10021B08C786BA30"/>THERE is perhaps no malady to which the human frame is subject, that has had more applications of various kinds administered as remedies<g ref="char:punc">▪</g> than the Rheuma<g ref="char:EOLhyphen"/>tism, nor is there scarce a disorder that has resisted with like force the attempts made to remove it. The virtues of the Essence and Extract of Mustard, will be found to equal if not excell those of any other medicine whatever, in the cure of the above complaints. The following is quoted from the London Pharmacopiae, and is the opinion of the College of Physicians concerning this valuable drug.</p>
                <p>"MUSTARD, by its acrimony and pungency, stimulates the solids, and attenu<g ref="char:EOLhyphen"/>ates viscid juices, and hence is deservedly recommended for exciting appetite, pro<g ref="char:EOLhyphen"/>moing digestion, encreasing the fluid secretions, also in paralytic and rheumatic af<g ref="char:EOLhyphen"/>ffections."</p>
                <p>These Medicines contain all the virtues that can possibly be derived from that excellent and powerful vegetable. The Essence is prepared in a f<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -798,7 +800,7 @@ IS RECOMMENDED <hi>Dr. Church's</hi> Essence and Extract of Mustard, Prepared (o
                            <salute>Sir,</salute>
                         </opener>
                         <p>During my residence on Long-Island last winter. I took a most violent Cold, which brought on a Cough, and almost an entire loss of the use of my limbs —I took your COUGH DROPS, which soon removed my Cough, and in some measure relieved me otherwise, but could not walk at all; recollecting you advertised an ESSENCE OF MUSTARD. I sent to New-York and procured some, which (with the use of the Mustard in Pills) cured me entirely in three days, so that I was able with perfect case to go a voyage to Bermuda, in a week af<g ref="char:EOLhyphen"/>ter,
-<pb n="20" facs="tcp:035305_0020_10021B0AF0D74008"/>
+<pb n="20" facs="unknown:035305_0020_10021B0AF0D74008"/>
 to the great surprise of every body who lived in the neighbourhood and knew my case.</p>
                         <closer>
                            <signed>I remain, Sir, with much respect, Your obedient Servant, JOHN R. MAXWELL.</signed>
@@ -831,7 +833,7 @@ To DR. CHURCH.</closer>
                   <div n="1" type="case">
                      <head>CASE I.</head>
                      <p>SUSANNAH GEARING, of New-Court, Cow-Cross, Smithfield, volun<g ref="char:EOLhyphen"/>tarily maketh oath and saith, that sometime ago she was nearly blind, having a SPECK on one Eye, which entirely covered her sight, and consequently deprived her of the least light; her other eye was covered with a SKIN OR FILM, so as to render her sight extremely dim. She used many applications recommended for DISEASES of the EYES, which afforded her no relief, until she had recourse to
-<pb n="21" facs="tcp:035305_0021_10021B0D1C677430"/>
+<pb n="21" facs="unknown:035305_0021_10021B0D1C677430"/>
 Mr. CHURCH's EYE-SALVE, which entirely cured her. It effectually removed the SPECK in a few days, and the other eye gradually grew better, and now her sight is perfect, and has not the least ailment in either of them.</p>
                      <closer>
                         <signed>SUSANNAH GEARING.</signed>
@@ -910,7 +912,7 @@ RICHARD LUCAS.</signed>
                      </postscript>
                   </div>
                   <div n="5" type="case">
-                     <pb n="22" facs="tcp:035305_0022_10021B0EC9E34000"/>
+                     <pb n="22" facs="unknown:035305_0022_10021B0EC9E34000"/>
                      <head>CASE V.</head>
                      <p>The daughter of the late Mr. Neale, of Petty France, Westminster, was dread<g ref="char:EOLhyphen"/>fully afflicted with a violent humour in her EYES, from the time of her having the <gap reason="illegible" resp="#PDCC" extent="5 letters">
                            <desc>•••••</desc>
@@ -949,7 +951,7 @@ RICHARD LUCAS.</signed>
                   <hi>To the Nervous, Weak, Debilitated, Sedentary and Consumptive,</hi> IS RECOMMENDED The celebrated Botanical Tea, Instead of FOREIGN TEA.</head>
                <p>THIS Tea is universally approved of, in preference to Foreign Tea, as the most pleasant, wholesome, enlivening, invigorating and powerful Restorative ever adopted, for persons of all ages; but particularly those of the above description, as it will infallibly strengthen, and eventually repair a bad constitution.</p>
                <p>It is taken for breakfast instead of Foreign Tea: and as our first aliment in the morning is designed to recruit the waste of the body from the night's insensible per<g ref="char:EOLhyphen"/>spiration,
-<pb n="23" facs="tcp:035305_0023_10021B1228EFB898"/>
+<pb n="23" facs="unknown:035305_0023_10021B1228EFB898"/>
 it is well known, and an important fact which ought to be borne on the mind of every one, that, Fo<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>i<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -992,7 +994,7 @@ it is well known, and an important fact which ought to be borne on the mind of e
             </div>
             <div type="list_of_sellers">
                <pb n="24"
-                   facs="tcp:035305_0024_10021B13C17536F8"
+                   facs="unknown:035305_0024_10021B13C17536F8"
                    rendition="simple:additions"/>
                <head>DR. CHURCH'S GENUINE MEDICNES,</head>
                <p>Are sold wholesale by the INVENTOR and sole PROPRIE<g ref="char:EOLhyphen"/>TOR, Dr. James Church, at his Dispensary, upper end of Broad<g ref="char:EOLhyphen"/>way, and Office, No. 10, Courtlandt-street, New-York, and are sold by appointment, at</p>
